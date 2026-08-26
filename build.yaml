@@ -2,7 +2,7 @@
 include:
 # Revision 2
   - board: xiao_ble/nrf52840/zmk
-    shield: corne_xiao_v2_left
+    shield: corne_xiao_v2_left rgbled_adapter
     snippet: studio-rpc-usb-uart
   - board: xiao_ble/nrf52840/zmk
-    shield: corne_xiao_v2_right
+    shield: corne_xiao_v2_right rgbled_adapter
